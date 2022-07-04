@@ -1,0 +1,5 @@
+package PartSixAkkaInfra
+
+object AkkaDispatchers {
+
+}

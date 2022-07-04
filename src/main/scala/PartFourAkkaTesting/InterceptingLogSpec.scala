@@ -1,0 +1,5 @@
+package PartFourAkkaTesting
+
+class InterceptingLogSpec {
+
+}

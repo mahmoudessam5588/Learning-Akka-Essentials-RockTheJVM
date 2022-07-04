@@ -1,0 +1,5 @@
+package PartFiveFaultTolerant
+
+object ActorLifeCycle {
+
+}
